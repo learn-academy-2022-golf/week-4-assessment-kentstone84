@@ -10,6 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Your answer: Object-oriented programming is different than functional programming because it allows you to think about objects and methods in different ways. You can think of object-oriented programming as classes and less logical programming as functional programming such as JavaScript focuses on functions and methods. 
 
+
 Researched answer: There are 4 pillars of object-oriented programming, abstraction, ecapsulation, inheartance, and polymorphism. Inhearitance is thought of as the sharing of information, encapsulation is the grouping of information, abstraction is the hiding of information and polymorphism is the redefinding of information. 
 
 <!-- 2. What is the difference between a Float and an Integer in Ruby?  -->
